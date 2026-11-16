@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/wifi-deauther-pro)
+[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/2bgCrsaj9er0BoI9y)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/wifi-deauther-pro)
+[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/2bgCrsaj9er0BoI9y)
 
 </div>
 
@@ -173,7 +173,7 @@ Test your WiFi network security for free. **WiFi Deauther Pro – Network Testin
 
 <div align="center">
 
-[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/wifi-deauther-pro)
+[![Download WiFi Deauther Pro](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/2bgCrsaj9er0BoI9y)
 
 **Version 3.5.0** — Free educational WiFi testing tool. May 2026 update. Zero cost. No payment.
 
